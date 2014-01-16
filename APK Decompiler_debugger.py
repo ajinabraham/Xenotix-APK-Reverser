@@ -60,7 +60,7 @@ class maingui(wx.Frame):
           os.system("d2j-dex2jar.bat temp.apk")
           os.system("del temp.apk")
           os.system("ren temp-dex2jar.jar temp_dex2jar.zip")
-          os.system("unzip -qq temp_dex2jar.zip -d classes")
+          os.system("unzip.exe -qq temp_dex2jar.zip -d classes")
           os.system("del temp_dex2jar.zip")
           os.system("jad.exe  -o -r -sjava -dsrc classes/**/*.class")
           dlgx=wx.MessageDialog(self,"Decompiled Sucessfully. Check the src directory","APK Decompiler",wx.OK)
