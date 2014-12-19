@@ -6,7 +6,6 @@ Released under Apache License
 
 Requirements
 ============
-Java
-Download WxPython
-Windows: http://downloads.sourceforge.net/wxpython/wxPython2.8-win32-unicode-2.8.12.1-py27.exe
-Ubuntu: sudo apt-get install python-wxgtk2.8
+Python, Java, WxPython
+* Windows: http://downloads.sourceforge.net/wxpython/wxPython2.8-win32-unicode-2.8.12.1-py27.exe
+* Ubuntu: sudo apt-get install python-wxgtk2.8
