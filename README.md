@@ -1,6 +1,6 @@
 Xenotix-APK-Reverser
 ====================
-
+![XenotixAPKReverser](http://opensecurity.in/wp-content/uploads/2013/11/xenotix-apk-reverser.png)
 Xenotix APK Reverser is an OpenSource Android Application Package (APK) decompiler and disassembler powered by dex2jar, baksmali and jd-core
 Released under Apache License
 
